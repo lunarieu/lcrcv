@@ -1,0 +1,20 @@
+body{
+	font-family: Century Gothic;
+	background:pink;
+	text-align:center;
+}
+
+h2{
+	text-shadow:2px 2px white;
+}
+
+.show{
+	background:pink;
+	color:black;
+}
+
+.row{
+	margin-top:50;
+	min-height:50px;
+	justify-content:space-between;
+}
